@@ -1,0 +1,56 @@
+**Scrum Artifacts**. These artifacts are essential tools that provide transparency and ensure accountability within a Scrum team. Let’s break it down:
+
+---
+
+### 16:04 - **Scrum Artifacts: Tools for Transparency and Accountability**
+
+Scrum defines three key artifacts that help teams stay on track and ensure that everyone is aligned:
+
+#### 1. **Product Backlog**:
+   - The product backlog is an evolving list of everything that might be needed in the product. It is the single source of work for the Scrum team.
+   - Items in the backlog are prioritized by the Product Owner, with the most important ones at the top, so the team knows what to focus on next.
+   - The Product Backlog is never complete. As long as the product exists, the backlog evolves to reflect new ideas, changes, and feedback from users or stakeholders.
+
+#### 2. **Sprint Backlog**:
+   - The Sprint Backlog is the list of tasks the team commits to completing during a specific Sprint (usually 1-4 weeks).
+   - It is a subset of the Product Backlog, containing only the highest priority items that the team can realistically accomplish within the Sprint.
+   - The team owns the Sprint Backlog, and it evolves as the team progresses through the Sprint. If new tasks are identified, they are added to the Sprint Backlog.
+
+#### 3. **Increment**:
+   - The Increment is the sum of all completed Product Backlog items during a Sprint. It must be in a **"Done"** state, meaning it is ready for release or further testing.
+   - Each Increment builds on the previous one, ensuring that progress is being made with each Sprint.
+
+#### **Additional Artifacts**:
+   - **Burndown Charts**: These charts show the team's progress towards completing the Sprint or the entire project. It visually represents how much work remains versus how much time is left.
+   - **Definition of Done**: This is a shared understanding within the team about what it means for a product backlog item to be considered complete. It ensures quality and consistency.
+
+---
+
+#### Simple Explanation (Like for a 10-Year-Old)
+The Scrum team uses some **lists and charts** to keep everything organized:
+- The **Product Backlog** is like a big list of everything they need to do in the future.
+- The **Sprint Backlog** is a smaller list of tasks they will finish in a short time, like for the next week.
+- The **Increment** is what they’ve built so far, something that works and can be used.
+- **Burndown Charts** are like a countdown of work, showing how much is left to finish.
+
+---
+
+### Popular Scrum Master Interview Questions (From This Section)
+
+#### 1. **What is a Product Backlog?**
+   **Answer**: The Product Backlog is a prioritized list of everything that might be needed in the product. It is dynamic, constantly evolving, and managed by the Product Owner.
+
+#### 2. **What is the difference between a Product Backlog and a Sprint Backlog?**
+   **Answer**: The Product Backlog contains all the potential work that needs to be done for the product, while the Sprint Backlog is a subset of the Product Backlog, consisting of tasks that the team commits to completing during the Sprint.
+
+#### 3. **What is an Increment in Scrum?**
+   **Answer**: An Increment is the total of all completed Product Backlog items during a Sprint. It represents the next step toward achieving the overall product goal, and it must be in a "Done" state.
+
+#### 4. **How does a Burndown Chart work?**
+   **Answer**: A Burndown Chart tracks the team’s progress over time, showing how much work remains compared to how much time is left in the Sprint or project. It helps the team assess whether they are on track to complete their work on time.
+
+#### 5. **What is the Definition of Done, and why is it important?**
+   **Answer**: The Definition of Done is a clear, agreed-upon checklist of what it means for a Product Backlog item to be considered complete. It ensures quality and helps prevent misunderstandings within the team.
+
+---
+
