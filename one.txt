@@ -1,0 +1,22 @@
+1. **Understanding the Scrum Framework:**
+   - **Scrum Master Role:** The Scrum Master ensures the team follows Scrum practices properly. They help the team focus on delivering high-quality work while removing obstacles that slow them down.
+   - **Team Facilitator:** They guide the team and make sure everyone communicates well, so projects run smoothly.
+   - **Essential Certifications:** To become a Scrum Master, certifications like CSM (Certified ScrumMaster) or PSM (Professional Scrum Master) are crucial. These prove that you understand how Scrum works.
+   - **Salaries:** In 2024, Scrum Masters in the US could earn anywhere from $90,000 to $170,000, depending on their experience.
+
+---
+
+#### **Interview Questions Based on This Section**
+
+1. **Question:** What is the role of a Scrum Master in a Scrum team?
+   **Answer:** A Scrum Master ensures that the Scrum framework is followed. They act as a facilitator, helping the team remove obstacles, maintain good communication, and focus on achieving their goals.
+
+2. **Question:** What are the key certifications for becoming a Scrum Master?
+   **Answer:** The two most recognized certifications are the Certified ScrumMaster (CSM) from Scrum Alliance and the Professional Scrum Master (PSM) from Scrum.org. These certifications validate your knowledge and ability to apply Scrum practices.
+
+3. **Question:** What are the typical responsibilities of a Scrum Master?
+   **Answer:** A Scrum Master's responsibilities include facilitating daily Scrum meetings, removing roadblocks, ensuring the team follows Scrum principles, helping with Sprint planning, and improving team dynamics.
+
+4. **Question:** Why is the role of a Scrum Master important in Agile projects?
+   **Answer:** The Scrum Master helps maintain the integrity of the Scrum process, ensures that the team works collaboratively, removes obstacles that could delay progress, and fosters continuous improvement.
+
